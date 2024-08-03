@@ -1,0 +1,10 @@
+/**
+ * @name Bye, Add a Server!
+ * @description Hide the "Add a Server" icon
+ * @source https://github.com/Sitoor/byediscserver.git
+ * @author Sitor
+ */
+
+div[aria-label="Add a Server"] {
+    display: none !important;
+}
